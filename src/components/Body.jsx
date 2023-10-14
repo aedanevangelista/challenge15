@@ -4,7 +4,7 @@ import illustration from "../assets/huddle-landing-page-with-single-introductory
 
 const Body = () => {
   return (
-    <div className="flex flex-col lg:flex-row lg:mx-14 lg:my-12 mx-[33rem]">
+    <div className="flex flex-col lg:flex-row lg:mx-14 lg:my-12 mx-[36rem]">
       <div className=" lg:w-[55%]">
         <img
           src={illustration}
@@ -15,7 +15,7 @@ const Body = () => {
       </div>
 
       <div className=" text-center lg:text-start flex flex-col w-full lg:w-[45%] mt-12 lg:mt-0 lg:pl-14 lg:pr-20 lg:py-12 ">
-        <h1 className=" font-Poppins text-3xl lg:text-4xl font-[700] pr-8 lg:leading-[4rem]">
+        <h1 className=" font-Poppins text-3xl lg:text-4xl font-[700] lg:pr-8 lg:leading-[4rem]">
           Build The Community Your Fans Will Love
         </h1>
         <p className="my-8">
